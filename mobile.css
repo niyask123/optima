@@ -1,0 +1,11 @@
+/* mobile.css */
+
+/* Apply styles only for mobile view */
+@media only screen and (max-width: 600px) {
+    p {
+        font-size: 10px;
+        font-family: Verdana, Geneva, sans-serif; /* Set a small font family */
+    }
+
+    /* You can add more styles for other elements if needed */
+}
